@@ -7,18 +7,22 @@ import pandas as pd
 import numpy as np
 import itertools
 
+# Defining the project directory
+
+direc = ''
+
 # Reading in data
 
-data = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/program_data.csv')
-ndata = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/program_data_new.csv')
-sdata = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/program_data_new_snap.csv')
-nsdata = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/program_data_new_non_snap.csv')
-a_districts = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/district_agent_matrix.csv')
-na_districts = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/district_new_agent_matrix.csv')
-snap_districts = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/district_new_agent_matrix_snap.csv')
-na_non_snap_districts = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/district_new_agent_matrix_non_snap.csv')
-c_districts = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/district_county_matrix.csv')
-vce_data = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/vce_agents.csv')
+data = pd.read_csv(direc + 'data/program_data.csv')
+ndata = pd.read_csv(direc + 'data/program_data_new.csv')
+sdata = pd.read_csv(direc + 'data/program_data_new_snap.csv')
+nsdata = pd.read_csv(direc + 'data/program_data_new_non_snap.csv')
+a_districts = pd.read_csv(direc + 'data/district_agent_matrix.csv')
+na_districts = pd.read_csv(direc + 'data/district_new_agent_matrix.csv')
+snap_districts = pd.read_csv(direc + 'data/district_new_agent_matrix_snap.csv')
+na_non_snap_districts = pd.read_csv(direc + 'data/district_new_agent_matrix_non_snap.csv')
+c_districts = pd.read_csv(direc + 'data/district_county_matrix.csv')
+vce_data = pd.read_csv(direc + 'data/vce_agents.csv')
 
 # Subsetting data for snap-ed agents
 

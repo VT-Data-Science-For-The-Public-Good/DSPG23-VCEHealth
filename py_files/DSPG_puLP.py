@@ -7,11 +7,15 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
+# Defining the project directory
+
+direc = ''
+
 # Reading in data
 
-data = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/program_data.csv')
-a_districts = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/district_agent_matrix.csv')
-c_districts = pd.read_csv('C:/Users/macary/Documents/DSPG/Health_2023/data/district_county_matrix.csv')
+data = pd.read_csv(direc + 'data/program_data.csv')
+a_districts = pd.read_csv(direc + 'data/district_agent_matrix.csv')
+c_districts = pd.read_csv(direc + 'data/district_county_matrix.csv')
 
 # Extracting data
 
@@ -172,5 +176,5 @@ agents_df = pd.concat([pd.Series(a.unique(), name = 'Agent'), agent_p, agent_z, 
 
 # Save the descriptive statistics on the agents
 
-agents_df.to_csv('C:/Users/macary/Documents/DSPG/Health_2023/results/agent_descriptive_statistics.csv', index = False)
+agents_df.to_csv(direc + 'results/agent_descriptive_statistics.csv', index = False)
 
