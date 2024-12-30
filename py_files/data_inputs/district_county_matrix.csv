@@ -1,0 +1,134 @@
+County,Central,Northeast,Northwest,Southeast,Southwest
+Accomack County,0,0,0,1,0
+Albemarle County,0,0,1,0,0
+Alexandria City,0,1,0,0,0
+Alleghany County,0,0,0,0,1
+Amelia County,1,0,0,0,0
+Amherst County,1,0,0,0,0
+Appomattox County,1,0,0,0,0
+Arlington County,0,1,0,0,0
+Augusta County,0,0,1,0,0
+Bath County,0,0,1,0,0
+Bedford County,1,0,0,0,0
+Bland County,0,0,0,0,1
+Botetourt County,0,0,0,0,1
+Bristol City,0,0,0,0,1
+Brunswick County,1,0,0,0,0
+Buchanan County,0,0,0,0,1
+Buckingham County,1,0,0,0,0
+Buena Vista City,0,0,1,0,0
+Campbell County,1,0,0,0,0
+Caroline County,0,1,0,0,0
+Carroll County,0,0,0,0,1
+Charles City County,0,0,0,1,0
+Charlotte County,1,0,0,0,0
+Charlottesville City,0,0,1,0,0
+Chesapeake City,0,0,0,1,0
+Chesterfield County,0,1,0,0,0
+Clarke County,0,0,1,0,0
+Colonial Heights City,0,1,0,0,0
+Covington City,0,0,0,0,1
+Craig County,0,0,0,0,1
+Culpeper County,0,0,1,0,0
+Cumberland County,1,0,0,0,0
+Danville City,1,0,0,0,0
+Dickenson County,0,0,0,0,1
+Dinwiddie County,0,0,0,1,0
+Emporia City,0,0,0,1,0
+Essex County,0,1,0,0,0
+Fairfax City,0,1,0,0,0
+Fairfax County,0,1,0,0,0
+Falls Church City,0,1,0,0,0
+Fauquier County,0,0,1,0,0
+Floyd County,0,0,0,0,1
+Fluvanna County,0,0,1,0,0
+Franklin City,0,0,0,1,0
+Franklin County,1,0,0,0,0
+Frederick County,0,0,1,0,0
+Fredericksburg City,0,1,0,0,0
+Galax City,0,0,0,0,1
+Giles County,0,0,0,0,1
+Gloucester County,0,1,0,0,0
+Goochland County,0,1,0,0,0
+Grayson County,0,0,0,0,1
+Greene County,0,0,1,0,0
+Greensville County,0,0,0,1,0
+Halifax County,1,0,0,0,0
+Hampton City,0,0,0,1,0
+Hanover County,0,1,0,0,0
+Harrisonburg City,0,0,1,0,0
+Henrico County,0,1,0,0,0
+Henry County,1,0,0,0,0
+Highland County,0,0,1,0,0
+Hopewell City,0,0,0,1,0
+Isle of Wight County,0,0,0,1,0
+James City County,0,0,0,1,0
+King and Queen County,0,1,0,0,0
+King George County,0,1,0,0,0
+King William County,0,1,0,0,0
+Lancaster County,0,1,0,0,0
+Lee County,0,0,0,0,1
+Lexington City,0,0,1,0,0
+Loudoun County,0,1,0,0,0
+Louisa County,0,0,1,0,0
+Lunenburg County,1,0,0,0,0
+Lynchburg City,1,0,0,0,0
+Madison County,0,0,1,0,0
+Manassas City,0,1,0,0,0
+Manassas Park City,0,1,0,0,0
+Martinsville City,1,0,0,0,0
+Mathews County,0,1,0,0,0
+Mecklenburg County,1,0,0,0,0
+Middlesex County,0,1,0,0,0
+Montgomery County,0,0,0,0,1
+Nelson County,0,0,1,0,0
+New Kent County,0,0,0,1,0
+Newport News City,0,0,0,1,0
+Norfolk City,0,0,0,1,0
+Northampton County,0,0,0,1,0
+Northumberland County,0,1,0,0,0
+Norton City,0,0,0,0,1
+Nottoway County,1,0,0,0,0
+Orange County,0,0,1,0,0
+Page County,0,0,1,0,0
+Patrick County,1,0,0,0,0
+Petersburg City,0,0,0,1,0
+Pittsylvania County,1,0,0,0,0
+Poquoson City,0,0,0,1,0
+Portsmouth City,0,0,0,1,0
+Powhatan County,0,1,0,0,0
+Prince Edward County,1,0,0,0,0
+Prince George County,0,0,0,1,0
+Prince William County,0,1,0,0,0
+Pulaski County,0,0,0,0,1
+Radford City,0,0,0,0,1
+Rappahannock County,0,0,1,0,0
+Richmond City,0,1,0,0,0
+Richmond County,0,1,0,0,0
+Roanoke City,0,0,0,0,1
+Roanoke County,0,0,0,0,1
+Rockbridge County,0,0,1,0,0
+Rockingham County,0,0,1,0,0
+Russell County,0,0,0,0,1
+Salem City,0,0,0,0,1
+Scott County,0,0,0,0,1
+Shenandoah County,0,0,1,0,0
+Smyth County,0,0,0,0,1
+Southampton County,0,0,0,1,0
+Spotsylvania County,0,1,0,0,0
+Stafford County,0,1,0,0,0
+Staunton City,0,0,1,0,0
+Suffolk City,0,0,0,1,0
+Surry County,0,0,0,1,0
+Sussex County,0,0,0,1,0
+Tazewell County,0,0,0,0,1
+Virginia Beach City,0,0,0,1,0
+Warren County,0,0,1,0,0
+Washington County,0,0,0,0,1
+Waynesboro City,0,0,1,0,0
+Westmoreland County,0,1,0,0,0
+Williamsburg City,0,0,0,1,0
+Winchester City,0,0,1,0,0
+Wise County,0,0,0,0,1
+Wythe County,0,0,0,0,1
+York County,0,0,0,1,0
